@@ -1,9 +1,9 @@
 <h1 align="center">Hey I'm Paritosh 👋</h1>
 
-👉 <a href = "https://katreparitosh.github.io/">Personal Page</a>  
+👉 [<a href = "https://katreparitosh.github.io/">Personal Page</a>]  
 
 📫 Reach me at [katreparitosh@gmail.com] or [<a href = "https://www.linkedin.com/in/paritoshkatre/">LinkedIn</a>]  
-📚 <a href = "https://katreparitosh.github.io/resources/">Resources</a> 👈 A compiled list of reading / resources.<br>
+📚 [<a href = "https://katreparitosh.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources.<br>
 
 <br>
 
