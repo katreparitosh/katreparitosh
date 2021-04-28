@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Paritosh 👋</h1>
+<h1 align="center">Hey, I'm Paritosh 👋</h1>
 
 👉 [<a href = "https://katreparitosh.github.io/">Personal Page</a>]  
 
