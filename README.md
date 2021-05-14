@@ -3,7 +3,7 @@
 👉 About me - [<a href = "https://katreparitosh.github.io/">Personal Page</a>]  
 
 📫 Reach me at [katreparitosh@gmail.com] or [<a href = "https://www.linkedin.com/in/paritoshkatre/">LinkedIn</a>]  
-📚 [<a href = "https://katreparitosh.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources.<br>
+📚 [<a href = "https://katreparitosh.github.io/resources/">Resources</a>] 👈 A compiled list of reading / resources / learning.<br>
 
 <br>
 
