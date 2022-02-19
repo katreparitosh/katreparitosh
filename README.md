@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Paritosh 👋</h1>
 
--- Seeking Internship Opportunities for Summer 2022 in NLP/ML Space --
+-- Drop me a note if you have relevant full-time opportunities in NLP/ML space @ katreparitosh@gmail.com --
 
 👉 About me - [<a href = "https://katreparitosh.github.io/">Personal Page</a>]  
 
